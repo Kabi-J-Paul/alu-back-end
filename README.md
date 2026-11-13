@@ -12,11 +12,13 @@ different data structures (console, CSV, JSON).
 | File | Description |
 |------|-------------|
 | `api/0-gather_data_from_an_API.py` | Gather TODO list progress from the API |
+| `api/1-export_to_CSV.py` | Export an employee's TODO list to CSV |
 
 ### Usage
 
 ```bash
 python3 api/0-gather_data_from_an_API.py <employee_id>
+python3 api/1-export_to_CSV.py <employee_id>
 ```
 
 ### Example
