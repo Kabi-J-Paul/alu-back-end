@@ -1,0 +1,4 @@
+__pycache__/
+[0-9]*.csv
+[0-9]*.json
+todo_all_employees.json
